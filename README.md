@@ -2,7 +2,7 @@
 
 A collection of small JavaScript projects built with HTML, CSS, and JavaScript.
 
-This repository contains beginner-friendly mini projects that demonstrate common front-end interactions and DOM manipulation.
+This repository contains beginner-friendly mini projects that demonstrate common front-end interactions and DOM manipulation for conceptual clarity and practice.
 
 ## Projects
 
@@ -50,7 +50,3 @@ Then open `Project 1/index.html`, `Project 2/index.html`, `Project 3/index.html`
 - HTML5
 - CSS3
 - JavaScript
-
-## License
-
-This project is for learning and practice purposes.
