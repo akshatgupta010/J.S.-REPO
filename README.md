@@ -26,6 +26,16 @@ A simple number guessing game where the player tries to guess a random number be
 
 - Files: `Project 4/index.html`, `Project 4/style.css`, `Project 4/script.js`
 
+### Project 5: Event KeyCodes
+A page that listens for keyboard events and displays the pressed key, key code, and code in a table.
+
+- Files: `Project 5/index.html`, `Project 5/script.js`
+
+### Project 6: Random Background Color Changer
+A project with Start and Stop controls that continuously changes the page background to a random color at regular intervals.
+
+- Files: `Project 6/index.html`, `Project 6/script.js`
+
 ## Attribution
 
 The project ideas, tutorials, and learning guidance come from the [Chai aur Code YouTube channel]. Please refer to the original tutorials for the source material and full explanations.
@@ -48,7 +58,7 @@ git clone https://github.com/akshatgupta010/J.S.-REPO.git
 cd J.S.-REPO
 ```
 
-Then open `Project 1/index.html`, `Project 2/index.html`, `Project 3/index.html`, or `Project 4/index.html` in a browser.
+Then open `Project 1/index.html`, `Project 2/index.html`, `Project 3/index.html`, `Project 4/index.html`, `Project 5/index.html`, or `Project 6/index.html` in a browser.
 
 ## Tech Stack
 
