@@ -1,7 +1,5 @@
 # J.S. Repo
 
-> **Learning project / tutorial practice:** These projects were created while following JavaScript tutorials from the [Chai aur Code YouTube channel](https://www.youtube.com/@chaiaurcode). They are included here for learning and practice, and should not be considered original projects created entirely by me.
-
 A collection of small JavaScript projects built with HTML, CSS, and JavaScript.
 
 This repository contains beginner-friendly mini projects that demonstrate common front-end interactions and DOM manipulation for conceptual clarity and practice.
@@ -30,8 +28,7 @@ A simple number guessing game where the player tries to guess a random number be
 
 ## Attribution
 
-The project ideas, tutorials, and learning guidance come from the [Chai aur Code YouTube channel](https://www.youtube.com/@chaiaurcode). Please refer to the original tutorials for the source material and full explanations.
-
+The project ideas, tutorials, and learning guidance come from the [Chai aur Code YouTube channel]. Please refer to the original tutorials for the source material and full explanations.
 This repository is a personal learning exercise. Any changes or additions made here are for practice and do not claim ownership of the original tutorial content or project concepts.
 
 ## Shared Styling
